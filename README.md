@@ -8,7 +8,6 @@
 
 ## Skills
 <div>
-   width="50"/>
    <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java"
    width="50"/>
    <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript"
