@@ -20,6 +20,7 @@
    width="50"/>     
    <img src="https://www.svgrepo.com/show/349474/php.svg" alt="PHP" width="50"/>
    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="My SQL" width="50"/>
+   <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Pythpn" width="50"/>
 </div>
 <a href="https://github.com/bielllabres55?tab=repositories" target="_blank">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielllabres55&layout=compact&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true"
