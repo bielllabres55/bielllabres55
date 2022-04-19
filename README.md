@@ -1,4 +1,4 @@
-# Hello, Welcome to my portfolio! 🤩🤩
+# Hello, Welcome to my portfolio!
 ## About Me
 - 👋 Buenas, soy Biel Llabrés Raurell, de Barcelona, España / Hello, I am Biel Llabrés Raurell, from Barcelona, Spain
 - 👀 Me interesa el Full-Stack development/ I am interested on Full-Stack Development
